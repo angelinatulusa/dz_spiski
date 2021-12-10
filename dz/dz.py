@@ -5,7 +5,6 @@ while True:
     print("2-soedenit dva spiska")
     print("3-dobavit bukvu na vibrannuu pozitiu")
     print("4-udalit element")
-    print("5- ")
     v=int(input("vvedite cislo: "))
     if v==1:
         a=input("vvedite bukvu")#которую хотят добавить
